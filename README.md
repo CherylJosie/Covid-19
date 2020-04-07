@@ -87,6 +87,6 @@ The spreadsheet is a little rough around the edges but I've debugged it and it s
 
 I am using LibreOffice from the Ubuntu 18.04 Linux distribution. Sometimes the charts stop updating after changes to the spreadsheet. When that happens, save your work and restart the software. It's buggy.
 
-Future project might be to adapt a copy of this spreadsheet to the US time series that were recently published by Johns Hopkins, but I don't see the point at this time unless someone is trying to decide whether to travel inside the US, and I'm not.
+Future project might be to adapt a copy of this spreadsheet to the US time series that were recently published by Johns Hopkins, but I don't see the point at this time unless someone is trying to decide whether to travel toa particular region inside the US, and I'm not.
 
 Cheryl
