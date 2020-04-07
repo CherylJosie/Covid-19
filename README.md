@@ -75,8 +75,7 @@ and all that is required is to
         1)  select all
         2)  delete
         3)  paste special unformatted comma-delimited into cell A10.
-3)  All functions and graphs update immediately with no further user input required. The spreadsheet detects (-detector) non-monotonically increasing time series data and substitutes (-adjusted) a copy of the previous value (assumes it's an error or omission).
-4)  This also means that the last date and time series data point copies indefinitely (through the initialized range of cells) at the right end of the sheet so that all empty/copied fields at the end of the sheet automatically map to the same point on the XY charts. If the time series grows in length, the sheet detects that the additional points are monotonically increasing and the chart traces extend automatically with no additional user input required.
+3)  All functions and graphs update immediately with no further user input required. The spreadsheet detects (-detector) non-monotonically increasing time series data and substitutes (-adjusted) a copy of the previous value (assumes it's an error or omission if it is not the end of the time series).
 
 Instructions for use are included on the 'Instructions' sheet.
 
