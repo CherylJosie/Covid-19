@@ -1,5 +1,7 @@
 # Covid-19
 
+See this Covid-19 project's Wiki for additional details, sample plots, screenshots.
+
 This repository contains a Libre Office .ods spreadsheet to graph and model the Johns Hopkins global Covid-19 time series database.
 
 Deaths/day/100K are scaled off the raw database using the Wikipedia estimate of global population, or scaled off the filtered-by-nation data using the Wikipedia estimate of national population, and then modeled with:
